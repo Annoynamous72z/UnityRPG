@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 513b3577643843f4aa1d5d0cd7ce17f0
+timeCreated: 1463885884
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skeleton_0
+    21300002: Skeleton_1
+    21300004: Skeleton_2
+    21300006: Skeleton_3
+    21300008: Skeleton_4
+    21300010: Skeleton_5
+    21300012: Skeleton_6
+    21300014: Skeleton_7
+    21300016: Skeleton_8
+    21300018: Skeleton_9
+    21300020: Skeleton_10
+    21300022: Skeleton_11
+    21300024: Skeleton_12
+    21300026: Skeleton_13
+    21300028: Skeleton_14
+    21300030: Skeleton_15
+    21300032: Skeleton_16
+    21300034: Skeleton_17
+    21300036: Skeleton_18
+    21300038: Skeleton_19
+    21300040: Skeleton_20
+    21300042: Skeleton_21
+    21300044: Skeleton_22
+    21300046: Skeleton_23
+    21300048: Skeleton_24
+    21300050: Skeleton_25
+    21300052: Skeleton_26
+    21300054: Skeleton_27
+    21300056: Skeleton_28
+    21300058: Skeleton_29
+    21300060: Skeleton_30
+    21300062: Skeleton_31
+    21300064: Skeleton_32
+    21300066: Skeleton_33
+    21300068: Skeleton_34
+    21300070: Skeleton_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 23}
+        - {x: -9, y: 23}
+        - {x: -14, y: 17}
+        - {x: -16, y: 0}
+        - {x: -17, y: -9}
+        - {x: -17, y: -12}
+        - {x: -15, y: -24}
+        - {x: -13, y: -27}
+        - {x: 11, y: -27}
+        - {x: 17, y: -25}
+        - {x: 17, y: 1}
+        - {x: 14, y: 21}
+    - name: Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 23}
+        - {x: -10, y: 23}
+        - {x: -13, y: 17}
+        - {x: -17, y: -3}
+        - {x: -17, y: -18}
+        - {x: -14, y: -25}
+        - {x: -10, y: -27}
+        - {x: 12, y: -27}
+        - {x: 15, y: -25}
+        - {x: 17, y: -13}
+        - {x: 17, y: 6}
+    - name: Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 23}
+        - {x: -13, y: 23}
+        - {x: -17, y: 20}
+        - {x: -17, y: -28}
+        - {x: 12, y: -28}
+        - {x: 17, y: -17}
+        - {x: 17, y: 6}
+        - {x: 14, y: 21}
+    - name: Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 22}
+        - {x: -11, y: 22}
+        - {x: -17, y: 20}
+        - {x: -17, y: -29}
+        - {x: 9, y: -29}
+        - {x: 15, y: -27}
+        - {x: 16, y: -14}
+        - {x: 16, y: 2}
+        - {x: 12, y: 15}
+    - name: Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 23}
+        - {x: -17, y: 23}
+        - {x: -17, y: -28}
+        - {x: 11, y: -28}
+        - {x: 17, y: -15}
+        - {x: 17, y: 8}
+        - {x: 15, y: 21}
+    - name: Skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 23}
+        - {x: -10, y: 23}
+        - {x: -13, y: 17}
+        - {x: -17, y: -3}
+        - {x: -17, y: -18}
+        - {x: -14, y: -25}
+        - {x: -10, y: -27}
+        - {x: 12, y: -27}
+        - {x: 15, y: -25}
+        - {x: 17, y: -13}
+        - {x: 17, y: 6}
+    - name: Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 23}
+        - {x: -17, y: 23}
+        - {x: -17, y: -24}
+        - {x: -16, y: -28}
+        - {x: 15, y: -28}
+        - {x: 17, y: -22}
+        - {x: 17, y: 14}
+        - {x: 14, y: 21}
+    - name: Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22}
+        - {x: -16, y: -29}
+        - {x: 3, y: -29}
+        - {x: 10, y: -27}
+        - {x: 17, y: -16}
+        - {x: 17, y: 0}
+        - {x: 10, y: 22}
+    - name: Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 23}
+        - {x: -9, y: 23}
+        - {x: -14, y: 17}
+        - {x: -17, y: -3}
+        - {x: -17, y: -13}
+        - {x: -11, y: -28}
+        - {x: 9, y: -28}
+        - {x: 17, y: -17}
+        - {x: 17, y: 0}
+        - {x: 14, y: 21}
+    - name: Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 23}
+        - {x: -11, y: 20}
+        - {x: -11, y: -28}
+        - {x: 10, y: -28}
+        - {x: 13, y: -26}
+        - {x: 13, y: 19}
+        - {x: 8, y: 23}
+    - name: Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22}
+        - {x: -15, y: -28}
+        - {x: 12, y: -28}
+        - {x: 14, y: -24}
+        - {x: 14, y: 20}
+        - {x: 8, y: 22}
+    - name: Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -13, y: -27}
+        - {x: 11, y: -27}
+        - {x: 12, y: -25}
+        - {x: 12, y: 23}
+    - name: Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 23}
+        - {x: -9, y: 23}
+        - {x: -11, y: 19}
+        - {x: -11, y: -15}
+        - {x: -10, y: -19}
+        - {x: -6, y: -27}
+        - {x: 11, y: -27}
+        - {x: 15, y: -17}
+        - {x: 15, y: 12}
+        - {x: 13, y: 17}
+    - name: Skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 23}
+        - {x: -12, y: -24}
+        - {x: -7, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 23}
+    - name: Skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 22}
+        - {x: -14, y: 22}
+        - {x: -14, y: -28}
+        - {x: 10, y: -28}
+        - {x: 18, y: -16}
+        - {x: 18, y: -9}
+        - {x: 13, y: 19}
+    - name: Skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23}
+        - {x: -11, y: 20}
+        - {x: -11, y: -22}
+        - {x: -9, y: -28}
+        - {x: 10, y: -28}
+        - {x: 16, y: -20}
+        - {x: 16, y: 7}
+        - {x: 10, y: 23}
+    - name: Skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 23}
+        - {x: -7, y: 23}
+        - {x: -11, y: 18}
+        - {x: -11, y: 3}
+        - {x: -9, y: -16}
+        - {x: -7, y: -26}
+        - {x: -6, y: -28}
+        - {x: 5, y: -28}
+        - {x: 12, y: -26}
+        - {x: 15, y: -17}
+        - {x: 15, y: 1}
+        - {x: 12, y: 20}
+    - name: Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 130
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 23}
+        - {x: -11, y: -24}
+        - {x: -8, y: -28}
+        - {x: 11, y: -28}
+        - {x: 14, y: -20}
+        - {x: 14, y: 21}
+        - {x: 10, y: 23}
+    - name: Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -27}
+        - {x: 17, y: -20}
+        - {x: 17, y: 21}
+        - {x: 10, y: 24}
+        - {x: -13, y: 24}
+        - {x: -17, y: 20}
+        - {x: -17, y: -27}
+        - {x: -3, y: -27}
+        - {x: -1, y: -23}
+        - {x: -1, y: -25}
+        - {x: 4, y: -27}
+    - name: Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 23}
+        - {x: -9, y: 23}
+        - {x: -17, y: 12}
+        - {x: -17, y: -28}
+        - {x: 16, y: -28}
+        - {x: 17, y: -26}
+        - {x: 17, y: 11}
+        - {x: 14, y: 17}
+    - name: Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 23}
+        - {x: -8, y: 23}
+        - {x: -13, y: 21}
+        - {x: -17, y: -6}
+        - {x: -17, y: -17}
+        - {x: -10, y: -29}
+        - {x: 13, y: -29}
+        - {x: 17, y: -21}
+        - {x: 17, y: 6}
+        - {x: 14, y: 17}
+    - name: Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -13, y: 20}
+        - {x: -17, y: 0}
+        - {x: -17, y: -20}
+        - {x: -10, y: -27}
+        - {x: -4, y: -29}
+        - {x: 15, y: -29}
+        - {x: 17, y: -25}
+        - {x: 17, y: 20}
+        - {x: 11, y: 22}
+    - name: Skeleton_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 23}
+        - {x: -17, y: 4}
+        - {x: -17, y: -21}
+        - {x: -15, y: -26}
+        - {x: -12, y: -29}
+        - {x: 12, y: -29}
+        - {x: 17, y: -23}
+        - {x: 17, y: 21}
+        - {x: 11, y: 23}
+    - name: Skeleton_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -17, y: 19}
+        - {x: -17, y: -28}
+        - {x: 16, y: -28}
+        - {x: 17, y: -25}
+        - {x: 17, y: 23}
+    - name: Skeleton_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -17, y: 13}
+        - {x: -17, y: -29}
+        - {x: 15, y: -29}
+        - {x: 17, y: -27}
+        - {x: 17, y: 11}
+        - {x: 12, y: 23}
+    - name: Skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 17}
+        - {x: 8, y: 22}
+        - {x: -10, y: 22}
+        - {x: -17, y: 10}
+        - {x: -17, y: -18}
+        - {x: -15, y: -27}
+        - {x: -8, y: -29}
+        - {x: 3, y: -29}
+        - {x: 9, y: -26}
+        - {x: 17, y: -20}
+        - {x: 17, y: 11}
+    - name: Skeleton_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 66
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23}
+        - {x: -17, y: -29}
+        - {x: 13, y: -29}
+        - {x: 17, y: -26}
+        - {x: 17, y: 11}
+        - {x: 11, y: 23}
+    - name: Skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 23}
+        - {x: -13, y: 18}
+        - {x: -13, y: -18}
+        - {x: -8, y: -28}
+        - {x: 6, y: -28}
+        - {x: 10, y: -27}
+        - {x: 11, y: -25}
+        - {x: 11, y: 22}
+        - {x: 9, y: 23}
+    - name: Skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -14, y: -28}
+        - {x: 12, y: -28}
+        - {x: 15, y: -24}
+        - {x: 15, y: 5}
+        - {x: 10, y: 22}
+    - name: Skeleton_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 23}
+        - {x: -12, y: -27}
+        - {x: 13, y: -27}
+        - {x: 13, y: 21}
+        - {x: 6, y: 23}
+    - name: Skeleton_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 23}
+        - {x: -15, y: -27}
+        - {x: 11, y: -27}
+        - {x: 11, y: 22}
+        - {x: 7, y: 23}
+    - name: Skeleton_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -15, y: 22}
+        - {x: -16, y: 8}
+        - {x: -16, y: -17}
+        - {x: -8, y: -27}
+        - {x: -7, y: -28}
+        - {x: 11, y: -28}
+        - {x: 12, y: -26}
+        - {x: 12, y: 23}
+    - name: Skeleton_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 22}
+        - {x: -10, y: 22}
+        - {x: -18, y: 1}
+        - {x: -18, y: -22}
+        - {x: -14, y: -26}
+        - {x: -7, y: -28}
+        - {x: 12, y: -28}
+        - {x: 14, y: -20}
+        - {x: 14, y: 13}
+        - {x: 13, y: 20}
+    - name: Skeleton_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -14, y: 22}
+        - {x: -16, y: 16}
+        - {x: -16, y: -17}
+        - {x: -11, y: -28}
+        - {x: 11, y: -28}
+        - {x: 11, y: 20}
+        - {x: 8, y: 23}
+    - name: Skeleton_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23}
+        - {x: -15, y: 16}
+        - {x: -15, y: -19}
+        - {x: -9, y: -28}
+        - {x: 6, y: -28}
+        - {x: 9, y: -27}
+        - {x: 11, y: 7}
+        - {x: 11, y: 17}
+        - {x: 7, y: 23}
+    - name: Skeleton_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 23}
+        - {x: -10, y: 23}
+        - {x: -14, y: 15}
+        - {x: -14, y: -19}
+        - {x: -11, y: -27}
+        - {x: -7, y: -28}
+        - {x: 7, y: -28}
+        - {x: 10, y: -27}
+        - {x: 11, y: -19}
+        - {x: 11, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: ed1014e8d6784e4489f7a740eef49139
+timeCreated: 1465674373
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: techknowhowkids_fire_ice_balls_0
+    21300002: techknowhowkids_fire_ice_balls_1
+    21300004: techknowhowkids_fire_ice_balls_2
+    21300006: techknowhowkids_fire_ice_balls_3
+    21300008: techknowhowkids_fire_ice_balls_4
+    21300010: techknowhowkids_fire_ice_balls_5
+    21300012: techknowhowkids_fire_ice_balls_6
+    21300014: techknowhowkids_fire_ice_balls_7
+    21300016: techknowhowkids_fire_ice_balls_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: techknowhowkids_fire_ice_balls_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 94
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: techknowhowkids_fire_ice_balls_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 94
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: techknowhowkids_fire_ice_balls_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 93
+        width: 19
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5078719, y: 0.476383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: techknowhowkids_fire_ice_balls_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 92
+        width: 23
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49349678, y: 0.4660062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: techknowhowkids_fire_ice_balls_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 93
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: techknowhowkids_fire_ice_balls_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 94
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: techknowhowkids_fire_ice_balls_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 53
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.45276642, y: 0.43841127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: techknowhowkids_fire_ice_balls_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 49
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.46410248, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: techknowhowkids_fire_ice_balls_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 48
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.48130322, y: 0.48187003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.401703, y: 17.09829}
+        - {x: -15.401703, y: -15.9017105}
+        - {x: 16.598297, y: -15.9017105}
+        - {x: 16.598297, y: 16.09829}
+        - {x: 14.598297, y: 17.09829}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

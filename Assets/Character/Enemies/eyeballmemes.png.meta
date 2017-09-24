@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 36aaeefc687cdca42b7a9ff579424f9a
+timeCreated: 1463506952
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eyeballmemes_0
+    21300002: eyeballmemes_1
+    21300004: eyeballmemes_2
+    21300006: eyeballmemes_3
+    21300008: eyeballmemes_4
+    21300010: eyeballmemes_5
+    21300012: eyeballmemes_6
+    21300014: eyeballmemes_7
+    21300016: eyeballmemes_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eyeballmemes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -15, y: 12}
+        - {x: -15, y: -13}
+        - {x: -11, y: -19}
+        - {x: 13, y: -19}
+        - {x: 15, y: -9}
+        - {x: 15, y: 10}
+        - {x: 6, y: 19}
+    - name: eyeballmemes_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -14, y: 15}
+        - {x: -16, y: 3}
+        - {x: -16, y: -6}
+        - {x: -7, y: -12}
+        - {x: -5, y: -12}
+        - {x: -6, y: -12}
+        - {x: -9, y: -15}
+        - {x: -10, y: -17}
+        - {x: -7, y: -19}
+        - {x: 11, y: -19}
+        - {x: 16, y: -11}
+        - {x: 16, y: 15}
+        - {x: 10, y: 19}
+    - name: eyeballmemes_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -16, y: 12}
+        - {x: -16, y: -11}
+        - {x: -14, y: -19}
+        - {x: 9, y: -19}
+        - {x: 16, y: -11}
+        - {x: 16, y: 18}
+        - {x: 14, y: 19}
+    - name: eyeballmemes_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -9, y: 18}
+        - {x: -15, y: 14}
+        - {x: -15, y: -19}
+        - {x: 13, y: -19}
+        - {x: 15, y: -9}
+        - {x: 15, y: 10}
+        - {x: 6, y: 19}
+    - name: eyeballmemes_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 18}
+        - {x: -16, y: -7}
+        - {x: -10, y: -19}
+        - {x: 12, y: -19}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 15, y: 19}
+    - name: eyeballmemes_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -16, y: 13}
+        - {x: -16, y: -14}
+        - {x: -10, y: -19}
+        - {x: 9, y: -19}
+        - {x: 16, y: -11}
+        - {x: 16, y: 18}
+        - {x: 15, y: 19}
+    - name: eyeballmemes_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -6}
+        - {x: 15, y: 11}
+        - {x: 11, y: 19}
+        - {x: -12, y: 19}
+        - {x: -15, y: 15}
+        - {x: -15, y: -10}
+        - {x: -13, y: -19}
+        - {x: 13, y: -19}
+        - {x: 7, y: -13}
+        - {x: 5, y: -13}
+        - {x: 7, y: -13}
+    - name: eyeballmemes_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -14, y: 15}
+        - {x: -16, y: 2}
+        - {x: -16, y: -6}
+        - {x: -7, y: -12}
+        - {x: -5, y: -12}
+        - {x: -6, y: -12}
+        - {x: -9, y: -15}
+        - {x: -10, y: -17}
+        - {x: -7, y: -19}
+        - {x: 11, y: -19}
+        - {x: 16, y: -10}
+        - {x: 16, y: 15}
+        - {x: 10, y: 19}
+    - name: eyeballmemes_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 19}
+        - {x: -16, y: 19}
+        - {x: -16, y: -11}
+        - {x: -14, y: -19}
+        - {x: 9, y: -19}
+        - {x: 10, y: -18}
+        - {x: 16, y: -10}
+        - {x: 16, y: 14}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

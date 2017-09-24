@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: 546c0dd4afacc004f8a35257b441af9f
+timeCreated: 1464224896
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NPCwalking_0
+    21300002: NPCwalking_1
+    21300004: NPCwalking_2
+    21300006: NPCwalking_3
+    21300008: NPCwalking_4
+    21300010: NPCwalking_5
+    21300012: NPCwalking_6
+    21300014: NPCwalking_7
+    21300016: NPCwalking_8
+    21300018: NPCwalking_9
+    21300020: NPCwalking_10
+    21300022: NPCwalking_11
+    21300024: NPCwalking_12
+    21300026: NPCwalking_13
+    21300028: NPCwalking_14
+    21300030: NPCwalking_15
+    21300032: NPCwalking_16
+    21300034: NPCwalking_17
+    21300036: NPCwalking_18
+    21300038: NPCwalking_19
+    21300040: NPCwalking_20
+    21300042: NPCwalking_21
+    21300044: NPCwalking_22
+    21300046: NPCwalking_23
+    21300048: NPCwalking_24
+    21300050: NPCwalking_25
+    21300052: NPCwalking_26
+    21300054: NPCwalking_27
+    21300056: NPCwalking_28
+    21300058: NPCwalking_29
+    21300060: NPCwalking_30
+    21300062: NPCwalking_31
+    21300064: NPCwalking_32
+    21300066: NPCwalking_33
+    21300068: NPCwalking_34
+    21300070: NPCwalking_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NPCwalking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 27}
+        - {x: -17, y: 7}
+        - {x: -17, y: -25}
+        - {x: 16, y: -25}
+        - {x: 17, y: -23}
+        - {x: 17, y: 9}
+        - {x: 9, y: 27}
+    - name: NPCwalking_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 27}
+        - {x: -17, y: 5}
+        - {x: -17, y: -25}
+        - {x: 17, y: -25}
+        - {x: 17, y: 24}
+        - {x: 10, y: 27}
+    - name: NPCwalking_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 27}
+        - {x: -17, y: 10}
+        - {x: -17, y: -21}
+        - {x: -16, y: -24}
+        - {x: -8, y: -26}
+        - {x: 13, y: -26}
+        - {x: 17, y: -22}
+        - {x: 17, y: 13}
+        - {x: 9, y: 27}
+    - name: NPCwalking_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -16, y: 14}
+        - {x: -17, y: 0}
+        - {x: -17, y: -15}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 22}
+        - {x: 9, y: 26}
+    - name: NPCwalking_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 27}
+        - {x: -16, y: 15}
+        - {x: -17, y: 1}
+        - {x: -17, y: -15}
+        - {x: -14, y: -22}
+        - {x: -5, y: -26}
+        - {x: 8, y: -26}
+        - {x: 15, y: -24}
+        - {x: 17, y: -21}
+        - {x: 17, y: 12}
+        - {x: 10, y: 27}
+    - name: NPCwalking_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 27}
+        - {x: -11, y: 27}
+        - {x: -17, y: 24}
+        - {x: -17, y: -25}
+        - {x: 12, y: -25}
+        - {x: 17, y: -20}
+        - {x: 17, y: 8}
+        - {x: 12, y: 20}
+    - name: NPCwalking_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 27}
+        - {x: -4, y: 27}
+        - {x: -8, y: 26}
+        - {x: -14, y: 20}
+        - {x: -17, y: -1}
+        - {x: -17, y: -12}
+        - {x: -11, y: -26}
+        - {x: 15, y: -26}
+        - {x: 17, y: -18}
+        - {x: 17, y: 13}
+        - {x: 13, y: 21}
+    - name: NPCwalking_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 26}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: -11, y: -27}
+        - {x: 8, y: -27}
+        - {x: 10, y: -26}
+        - {x: 17, y: -23}
+        - {x: 17, y: 13}
+        - {x: 11, y: 26}
+    - name: NPCwalking_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 27}
+        - {x: -15, y: 26}
+        - {x: -15, y: -26}
+        - {x: 16, y: -26}
+        - {x: 19, y: -20}
+        - {x: 19, y: 15}
+        - {x: 12, y: 27}
+    - name: NPCwalking_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -26}
+        - {x: 9, y: -26}
+        - {x: 13, y: -23}
+        - {x: 13, y: 26}
+        - {x: -7, y: 26}
+        - {x: -12, y: 22}
+        - {x: -12, y: -24}
+    - name: NPCwalking_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25}
+        - {x: -15, y: 11}
+        - {x: -15, y: -20}
+        - {x: -13, y: -25}
+        - {x: -10, y: -26}
+        - {x: 9, y: -26}
+        - {x: 14, y: -24}
+        - {x: 14, y: 7}
+        - {x: 13, y: 19}
+        - {x: 5, y: 25}
+    - name: NPCwalking_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 26}
+        - {x: -13, y: 19}
+        - {x: -13, y: -25}
+        - {x: 8, y: -25}
+        - {x: 13, y: -23}
+        - {x: 13, y: 21}
+        - {x: 6, y: 26}
+    - name: NPCwalking_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -12, y: 25}
+        - {x: -12, y: 1}
+        - {x: -9, y: -25}
+        - {x: 7, y: -25}
+        - {x: 15, y: -13}
+        - {x: 15, y: 23}
+        - {x: 7, y: 26}
+    - name: NPCwalking_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 26}
+        - {x: -12, y: 19}
+        - {x: -12, y: -22}
+        - {x: -8, y: -26}
+        - {x: 3, y: -26}
+        - {x: 12, y: -24}
+        - {x: 16, y: -21}
+        - {x: 16, y: 13}
+        - {x: 11, y: 26}
+    - name: NPCwalking_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -14, y: 17}
+        - {x: -14, y: -26}
+        - {x: 18, y: -26}
+        - {x: 18, y: 25}
+    - name: NPCwalking_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -12, y: -21}
+        - {x: -11, y: -26}
+        - {x: 7, y: -26}
+        - {x: 16, y: -15}
+        - {x: 16, y: 23}
+        - {x: 6, y: 26}
+    - name: NPCwalking_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -12, y: 24}
+        - {x: -12, y: 2}
+        - {x: -8, y: -26}
+        - {x: 15, y: -26}
+        - {x: 15, y: 26}
+    - name: NPCwalking_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -12, y: 23}
+        - {x: -12, y: -3}
+        - {x: -11, y: -24}
+        - {x: -6, y: -26}
+        - {x: 10, y: -26}
+        - {x: 14, y: -12}
+        - {x: 14, y: 24}
+        - {x: 8, y: 26}
+    - name: NPCwalking_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 27}
+        - {x: -11, y: 27}
+        - {x: -17, y: 5}
+        - {x: -17, y: -26}
+        - {x: 15, y: -26}
+        - {x: 17, y: -22}
+        - {x: 17, y: 4}
+        - {x: 13, y: 21}
+    - name: NPCwalking_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 27}
+        - {x: -17, y: 4}
+        - {x: -17, y: -18}
+        - {x: -12, y: -26}
+        - {x: 15, y: -26}
+        - {x: 17, y: -16}
+        - {x: 17, y: 10}
+        - {x: 11, y: 27}
+    - name: NPCwalking_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 27}
+        - {x: -17, y: 24}
+        - {x: -17, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 17, y: -21}
+        - {x: 17, y: 8}
+        - {x: 11, y: 27}
+    - name: NPCwalking_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 26}
+        - {x: -16, y: 9}
+        - {x: -16, y: -14}
+        - {x: -13, y: -27}
+        - {x: 17, y: -27}
+        - {x: 17, y: 26}
+    - name: NPCwalking_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 27}
+        - {x: -11, y: 27}
+        - {x: -17, y: 1}
+        - {x: -17, y: -16}
+        - {x: -12, y: -27}
+        - {x: 13, y: -27}
+        - {x: 15, y: -26}
+        - {x: 17, y: -15}
+        - {x: 17, y: 9}
+    - name: NPCwalking_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 27}
+        - {x: -11, y: 27}
+        - {x: -17, y: 17}
+        - {x: -17, y: -24}
+        - {x: -16, y: -26}
+        - {x: 12, y: -26}
+        - {x: 17, y: -19}
+        - {x: 17, y: 5}
+        - {x: 13, y: 21}
+    - name: NPCwalking_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 27}
+        - {x: -10, y: 27}
+        - {x: -17, y: 9}
+        - {x: -17, y: -14}
+        - {x: -14, y: -24}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 14, y: -24}
+        - {x: 17, y: -22}
+        - {x: 17, y: 17}
+    - name: NPCwalking_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -17, y: 22}
+        - {x: -17, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 15}
+        - {x: 10, y: 26}
+    - name: NPCwalking_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 27}
+        - {x: -13, y: 27}
+        - {x: -17, y: 25}
+        - {x: -17, y: -27}
+        - {x: 11, y: -27}
+        - {x: 17, y: -22}
+        - {x: 17, y: 15}
+        - {x: 15, y: 19}
+    - name: NPCwalking_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -13, y: 25}
+        - {x: -13, y: -17}
+        - {x: -9, y: -26}
+        - {x: 7, y: -26}
+        - {x: 12, y: -25}
+        - {x: 12, y: 25}
+        - {x: 9, y: 26}
+    - name: NPCwalking_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 25}
+        - {x: -14, y: 20}
+        - {x: -14, y: -26}
+        - {x: 15, y: -26}
+        - {x: 15, y: 23}
+        - {x: 13, y: 25}
+    - name: NPCwalking_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 26}
+        - {x: -13, y: 19}
+        - {x: -13, y: -17}
+        - {x: -12, y: -22}
+        - {x: -10, y: -25}
+        - {x: 13, y: -25}
+        - {x: 13, y: 19}
+        - {x: 9, y: 26}
+    - name: NPCwalking_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 26}
+        - {x: -6, y: 26}
+        - {x: -15, y: 23}
+        - {x: -15, y: -14}
+        - {x: -6, y: -25}
+        - {x: 5, y: -25}
+        - {x: 8, y: -24}
+        - {x: 12, y: -3}
+        - {x: 12, y: 23}
+    - name: NPCwalking_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 26}
+        - {x: -16, y: 21}
+        - {x: -16, y: -26}
+        - {x: 10, y: -26}
+        - {x: 12, y: -25}
+        - {x: 12, y: 21}
+        - {x: 8, y: 26}
+    - name: NPCwalking_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -16, y: 16}
+        - {x: -18, y: 9}
+        - {x: -18, y: -15}
+        - {x: -11, y: -26}
+        - {x: 14, y: -26}
+        - {x: 14, y: 21}
+        - {x: 7, y: 25}
+    - name: NPCwalking_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 26}
+        - {x: -15, y: 20}
+        - {x: -16, y: 16}
+        - {x: -16, y: -12}
+        - {x: -9, y: -26}
+        - {x: 7, y: -26}
+        - {x: 12, y: -25}
+        - {x: 12, y: 20}
+        - {x: 9, y: 26}
+    - name: NPCwalking_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 26}
+        - {x: -13, y: 20}
+        - {x: -15, y: 6}
+        - {x: -15, y: -13}
+        - {x: -7, y: -26}
+        - {x: 6, y: -26}
+        - {x: 12, y: -22}
+        - {x: 12, y: 26}
+    - name: NPCwalking_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 26}
+        - {x: -9, y: 26}
+        - {x: -14, y: 21}
+        - {x: -14, y: -14}
+        - {x: -13, y: -25}
+        - {x: -10, y: -26}
+        - {x: 7, y: -26}
+        - {x: 9, y: -24}
+        - {x: 12, y: 5}
+        - {x: 12, y: 20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

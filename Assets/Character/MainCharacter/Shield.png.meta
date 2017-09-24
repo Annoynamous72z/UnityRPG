@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 9ffa6c89f06d78f4885bc98d2801a07d
+timeCreated: 1463345528
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shield_0
+    21300002: Shield_1
+    21300004: Shield_2
+    21300006: Shield_3
+    21300008: Shield_4
+    21300010: Shield_5
+    21300012: Shield_6
+    21300014: Shield_7
+    21300016: Shield_8
+    21300018: Shield_9
+    21300020: Shield_10
+    21300022: Shield_11
+    21300024: Shield_12
+    21300026: Shield_13
+    21300028: Shield_14
+    21300030: Shield_15
+    21300032: Shield_16
+    21300034: Shield_17
+    21300036: Shield_18
+    21300038: Shield_19
+    21300040: Shield_20
+    21300042: Shield_21
+    21300044: Shield_22
+    21300046: Shield_23
+    21300048: Shield_24
+    21300050: Shield_25
+    21300052: Shield_26
+    21300054: Shield_27
+    21300056: Shield_28
+    21300058: Shield_29
+    21300060: Shield_30
+    21300062: Shield_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shield_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 208
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5794405, y: 0.59185314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.439297, y: 19.59105}
+        - {x: -21.439297, y: 11.591049}
+        - {x: -21.439297, y: -18.40895}
+        - {x: -13.439297, y: -28.40895}
+        - {x: 15.560703, y: -28.40895}
+        - {x: 15.560703, y: 19.59105}
+    - name: Shield_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 206
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.55763334, y: 0.5999762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.959534, y: 19.601166}
+        - {x: -18.959534, y: 11.601166}
+        - {x: -18.959534, y: -25.398834}
+        - {x: -12.959534, y: -29.398834}
+        - {x: 12.040466, y: -29.398834}
+        - {x: 15.040466, y: -26.398834}
+        - {x: 15.040466, y: 18.601166}
+        - {x: 12.040466, y: 19.601166}
+    - name: Shield_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 206
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5158027, y: 0.6077744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 206
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.6077744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 206
+        width: 30
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.61997145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 206
+        width: 30
+        height: 49
+      alignment: 9
+      pivot: {x: 0.51632994, y: 0.5999762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 206
+        width: 30
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.60997385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 206
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51632994, y: 0.6077744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 33
+        height: 49
+      alignment: 9
+      pivot: {x: 0.42577523, y: 0.60997385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.050583, y: 19.111282}
+        - {x: -14.050583, y: 18.111282}
+        - {x: -14.050583, y: -29.888718}
+        - {x: 12.949417, y: -29.888718}
+        - {x: 18.949417, y: -24.888718}
+        - {x: 18.949417, y: 13.111282}
+        - {x: 17.949417, y: 19.111282}
+    - name: Shield_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 143
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.45677498, y: 0.5999762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.53035, y: 19.601166}
+        - {x: -15.53035, y: 18.601166}
+        - {x: -15.53035, y: -28.398834}
+        - {x: -13.53035, y: -29.398834}
+        - {x: 6.4696503, y: -29.398834}
+        - {x: 18.46965, y: -23.398834}
+        - {x: 18.46965, y: 5.601166}
+        - {x: 10.46965, y: 19.601166}
+    - name: Shield_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 36
+        height: 49
+      alignment: 9
+      pivot: {x: 0.41835275, y: 0.60997385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.060699, y: 19.111282}
+        - {x: -15.060699, y: 18.111282}
+        - {x: -15.060699, y: -28.888718}
+        - {x: -14.060699, y: -29.888718}
+        - {x: 6.9393005, y: -29.888718}
+        - {x: 20.9393, y: -20.888718}
+        - {x: 20.9393, y: 5.1112823}
+        - {x: 10.939301, y: 19.111282}
+    - name: Shield_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 142
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.41835275, y: 0.6273697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.060699, y: 18.631516}
+        - {x: -15.060699, y: -31.368484}
+        - {x: 18.9393, y: -31.368484}
+        - {x: 20.9393, y: -23.368484}
+        - {x: 20.9393, y: 10.6315155}
+        - {x: 10.939301, y: 18.631516}
+    - name: Shield_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 142
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48367006, y: 0.63716733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 142
+        width: 33
+        height: 50
+      alignment: 9
+      pivot: {x: 0.54453623, y: 0.646965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.969696, y: 17.651749}
+        - {x: -17.969696, y: 12.651749}
+        - {x: -17.969696, y: -24.348251}
+        - {x: -8.969696, y: -32.34825}
+        - {x: 15.030304, y: -32.34825}
+        - {x: 15.030304, y: 9.651749}
+        - {x: 10.030304, y: 17.651749}
+    - name: Shield_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 142
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51632994, y: 0.617572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 142
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4047453, y: 0.646965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.570831, y: 17.651749}
+        - {x: -14.570831, y: -32.34825}
+        - {x: 19.429169, y: -32.34825}
+        - {x: 21.429169, y: -24.348251}
+        - {x: 21.429169, y: 9.651749}
+        - {x: 11.429169, y: 17.651749}
+    - name: Shield_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 78
+        width: 35
+        height: 51
+      alignment: 9
+      pivot: {x: 0.45801, y: 0.59605557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.03035, y: 20.601166}
+        - {x: -16.03035, y: -30.398834}
+        - {x: 16.96965, y: -30.398834}
+        - {x: 18.96965, y: -24.398834}
+        - {x: 18.96965, y: 17.601166}
+        - {x: 9.96965, y: 20.601166}
+    - name: Shield_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 33
+        height: 50
+      alignment: 9
+      pivot: {x: 0.45546514, y: 0.57838136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.03035, y: 21.080933}
+        - {x: -15.03035, y: 14.080933}
+        - {x: -15.03035, y: -28.919067}
+        - {x: 17.96965, y: -28.919067}
+        - {x: 17.96965, y: 13.080933}
+        - {x: 14.96965, y: 21.080933}
+    - name: Shield_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 79
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5979767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 79
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6077747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 79
+        width: 30
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5899786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 79
+        width: 30
+        height: 49
+      alignment: 9
+      pivot: {x: 0.500001, y: 0.5999762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 79
+        width: 31
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5899786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 79
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51632893, y: 0.5979767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5148449, y: 0.69901484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.980429, y: 16.855167}
+        - {x: -7.0195713, y: 16.855167}
+        - {x: -12.019571, y: 12.855167}
+        - {x: -18.019571, y: 7.8551674}
+        - {x: -18.019571, y: -24.144833}
+        - {x: -12.019571, y: -34.144833}
+        - {x: 9.980429, y: -34.144833}
+        - {x: 12.980429, y: -32.144833}
+        - {x: 14.980429, y: -26.144833}
+        - {x: 16.980429, y: -10.144833}
+        - {x: 16.980429, y: 11.855167}
+    - name: Shield_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 7
+        width: 35
+        height: 57
+      alignment: 9
+      pivot: {x: 0.543225, y: 0.69901484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.012878, y: 17.156155}
+        - {x: -19.012878, y: 3.1561546}
+        - {x: -19.012878, y: -21.843845}
+        - {x: -6.0128784, y: -33.843845}
+        - {x: 15.987122, y: -33.843845}
+        - {x: 15.987122, y: 16.156155}
+        - {x: 13.987122, y: 17.156155}
+    - name: Shield_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 11
+        width: 37
+        height: 53
+      alignment: 9
+      pivot: {x: 0.54082364, y: 0.7143237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.010468, y: 15.140842}
+        - {x: -20.010468, y: 4.1408424}
+        - {x: -20.010468, y: -31.859158}
+        - {x: -12.010468, y: -35.859158}
+        - {x: 16.989532, y: -35.859158}
+        - {x: 16.989532, y: 15.140842}
+    - name: Shield_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 14
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5544315, y: 0.6175717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.959534, y: 19.121414}
+        - {x: -19.959534, y: 9.121414}
+        - {x: -19.959534, y: -27.878586}
+        - {x: -15.959534, y: -30.878586}
+        - {x: 16.040466, y: -30.878586}
+        - {x: 16.040466, y: 19.121414}
+    - name: Shield_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 8
+        width: 31
+        height: 56
+      alignment: 9
+      pivot: {x: 0.45101115, y: 0.7066693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 12
+        width: 34
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4703101, y: 0.7143237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.99054, y: 14.855167}
+        - {x: -15.99054, y: 10.855167}
+        - {x: -15.99054, y: -37.144833}
+        - {x: 12.00946, y: -37.144833}
+        - {x: 10.00946, y: -29.144833}
+        - {x: 18.00946, y: -30.144833}
+        - {x: 18.00946, y: 14.855167}
+    - name: Shield_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 12
+        width: 31
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48367107, y: 0.7219781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Shield_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 13
+        width: 87
+        height: 51
+      alignment: 9
+      pivot: {x: 0.23279156, y: 0.7066693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.252869, y: 14.959866}
+        - {x: -20.252869, y: 2.9598656}
+        - {x: -20.252869, y: -21.040134}
+        - {x: -11.252869, y: -33.040134}
+        - {x: -6.2528687, y: -36.040134}
+        - {x: 11.747131, y: -36.040134}
+        - {x: 17.747131, y: -32.040134}
+        - {x: 17.747131, y: 13.959866}
+        - {x: 14.747131, y: 14.959866}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

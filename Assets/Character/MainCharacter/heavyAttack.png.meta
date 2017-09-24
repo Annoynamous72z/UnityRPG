@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: e4f82730bb8816547873bc80566b10cb
+timeCreated: 1463344152
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heavyAttack_0
+    21300002: heavyAttack_1
+    21300004: heavyAttack_2
+    21300006: heavyAttack_3
+    21300008: heavyAttack_4
+    21300010: heavyAttack_5
+    21300012: heavyAttack_6
+    21300014: heavyAttack_7
+    21300016: heavyAttack_8
+    21300018: heavyAttack_9
+    21300020: heavyAttack_10
+    21300022: heavyAttack_11
+    21300024: heavyAttack_12
+    21300026: heavyAttack_13
+    21300028: heavyAttack_14
+    21300030: heavyAttack_15
+    21300032: heavyAttack_16
+    21300034: heavyAttack_17
+    21300036: heavyAttack_18
+    21300038: heavyAttack_19
+    21300040: heavyAttack_20
+    21300042: heavyAttack_21
+    21300044: heavyAttack_22
+    21300046: heavyAttack_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: heavyAttack_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 642
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6197684, y: 0.5764592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.170967, y: 20.329956}
+        - {x: -24.170967, y: 15.329956}
+        - {x: -24.170967, y: -7.670044}
+        - {x: -18.170967, y: -27.670044}
+        - {x: 14.829033, y: -27.670044}
+        - {x: 14.829033, y: 18.329956}
+        - {x: 13.829033, y: 20.329956}
+    - name: heavyAttack_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 641
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6876729, y: 0.5834109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.008301, y: 19.996277}
+        - {x: -13.008301, y: 18.996277}
+        - {x: -22.0083, y: 9.996277}
+        - {x: -33.0083, y: -6.003723}
+        - {x: -33.0083, y: -16.003723}
+        - {x: -19.0083, y: -28.003723}
+        - {x: 14.991699, y: -28.003723}
+        - {x: 14.991699, y: 13.996277}
+        - {x: 10.991699, y: 19.996277}
+    - name: heavyAttack_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 641
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6740736, y: 0.5764592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.007385, y: 20.329956}
+        - {x: -15.007385, y: 13.329956}
+        - {x: -19.007385, y: 9.329956}
+        - {x: -31.007385, y: -15.670044}
+        - {x: -31.007385, y: -23.670044}
+        - {x: -14.007385, y: -27.670044}
+        - {x: 14.992615, y: -27.670044}
+        - {x: 14.992615, y: 17.329956}
+        - {x: 10.992615, y: 20.329956}
+    - name: heavyAttack_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 641
+        width: 59
+        height: 49
+      alignment: 9
+      pivot: {x: 0.74881655, y: 0.5817086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.180176, y: 20.496277}
+        - {x: -44.180176, y: 4.496277}
+        - {x: -44.180176, y: -16.503723}
+        - {x: -39.180176, y: -22.503723}
+        - {x: -31.180176, y: -28.503723}
+        - {x: 14.819824, y: -28.503723}
+        - {x: 14.819824, y: 20.496277}
+    - name: heavyAttack_4
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 641
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.55811226, y: 0.4397829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.207092, y: 37.534546}
+        - {x: -45.207092, y: 12.534546}
+        - {x: -45.207092, y: -2.465454}
+        - {x: -42.207092, y: -1.4654541}
+        - {x: -20.207092, y: -29.465454}
+        - {x: 27.792908, y: -29.465454}
+        - {x: 35.792908, y: 12.534546}
+        - {x: 35.792908, y: 37.534546}
+    - name: heavyAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 641
+        width: 77
+        height: 64
+      alignment: 9
+      pivot: {x: 0.21181577, y: 0.4789877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.690186, y: 28.344788}
+        - {x: 39.690186, y: 33.344788}
+        - {x: -12.309814, y: 33.344788}
+        - {x: -9.309814, y: 26.344788}
+        - {x: -16.309814, y: 11.344788}
+        - {x: -16.309814, y: -30.655212}
+        - {x: 28.690186, y: -30.655212}
+        - {x: 59.690186, y: -11.655212}
+        - {x: 60.690186, y: -9.655212}
+        - {x: 60.690186, y: 18.344788}
+    - name: heavyAttack_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 448
+        width: 59
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7474536, y: 0.62244874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.099762, y: 18.877563}
+        - {x: -44.099762, y: -1.1224365}
+        - {x: -44.099762, y: -31.122437}
+        - {x: 10.900238, y: -31.122437}
+        - {x: 14.900238, y: -24.122437}
+        - {x: 14.900238, y: 18.877563}
+    - name: heavyAttack_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 448
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5652888, y: 0.60174245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.219818, y: 19.116364}
+        - {x: -19.219818, y: -28.883636}
+        - {x: 14.780182, y: -28.883636}
+        - {x: 14.780182, y: 13.116364}
+        - {x: 10.780182, y: 19.116364}
+    - name: heavyAttack_8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 448
+        width: 38
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35980064, y: 0.6154309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.672424, y: 19.228455}
+        - {x: -13.672424, y: 17.228455}
+        - {x: -13.672424, y: -30.771545}
+        - {x: 18.327576, y: -30.771545}
+        - {x: 24.327576, y: -20.771545}
+        - {x: 24.327576, y: 12.228455}
+        - {x: 15.327576, y: 19.228455}
+    - name: heavyAttack_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 448
+        width: 57
+        height: 50
+      alignment: 9
+      pivot: {x: 0.40653375, y: 0.6243103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.172424, y: -23.215515}
+        - {x: -13.172424, y: -31.215515}
+        - {x: 15.827576, y: -31.215515}
+        - {x: 33.827576, y: -18.215515}
+        - {x: 33.827576, y: 3.7844849}
+        - {x: 15.827576, y: 18.784485}
+        - {x: -19.172424, y: 18.784485}
+        - {x: -23.172424, y: 8.784485}
+    - name: heavyAttack_10
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 448
+        width: 93
+        height: 50
+      alignment: 9
+      pivot: {x: 0.8341675, y: 0.6243103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.422424, y: 18.784485}
+        - {x: -59.577576, y: 18.784485}
+        - {x: -77.577576, y: 12.784485}
+        - {x: -77.577576, y: -16.215515}
+        - {x: -32.577576, y: -31.215515}
+        - {x: 15.422424, y: -31.215515}
+        - {x: 15.422424, y: 17.784485}
+    - name: heavyAttack_11
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 448
+        width: 91
+        height: 50
+      alignment: 9
+      pivot: {x: 0.8268748, y: 0.6154309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.245605, y: 19.228455}
+        - {x: -16.245605, y: 18.228455}
+        - {x: -16.245605, y: 10.228455}
+        - {x: -13.245605, y: 6.2284546}
+        - {x: -15.245605, y: 9.228455}
+        - {x: -27.245605, y: 19.228455}
+        - {x: -42.245605, y: 19.228455}
+        - {x: -75.245605, y: 12.228455}
+        - {x: -75.245605, y: -2.7715454}
+        - {x: -20.245605, y: -30.771545}
+        - {x: 15.754395, y: -30.771545}
+        - {x: 15.754395, y: 7.2284546}
+        - {x: 9.754395, y: 19.228455}
+    - name: heavyAttack_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 39
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6279997, y: 0.5959995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.491989, y: 21.008026}
+        - {x: -19.49199, y: 11.008026}
+        - {x: -24.49199, y: -16.991974}
+        - {x: -24.49199, y: -30.991974}
+        - {x: 14.508011, y: -30.991974}
+        - {x: 14.508011, y: 16.008026}
+        - {x: 9.508011, y: 21.008026}
+    - name: heavyAttack_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 256
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6871993, y: 0.5783051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.985565, y: 21.50644}
+        - {x: -32.985565, y: 3.5064392}
+        - {x: -32.985565, y: -19.49356}
+        - {x: -23.985565, y: -29.49356}
+        - {x: 15.014435, y: -29.49356}
+        - {x: 15.014435, y: 14.506439}
+        - {x: 10.014435, y: 21.50644}
+    - name: heavyAttack_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 256
+        width: 46
+        height: 49
+      alignment: 9
+      pivot: {x: 0.67059195, y: 0.5762603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.847229, y: 20.763245}
+        - {x: -30.847229, y: 7.7632446}
+        - {x: -15.847229, y: -27.236755}
+        - {x: -15.847229, y: -28.236755}
+        - {x: 15.152771, y: -28.236755}
+        - {x: 15.152771, y: 18.763245}
+        - {x: 11.152771, y: 20.763245}
+    - name: heavyAttack_15
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 257
+        width: 57
+        height: 49
+      alignment: 9
+      pivot: {x: 0.727704, y: 0.5611261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.479126, y: 21.504822}
+        - {x: -17.479126, y: 11.504822}
+        - {x: -34.479126, y: 17.504822}
+        - {x: -41.479126, y: 11.504822}
+        - {x: -41.479126, y: -12.495178}
+        - {x: -27.479126, y: -27.495178}
+        - {x: 12.520874, y: -27.495178}
+        - {x: 15.520874, y: -26.495178}
+        - {x: 15.520874, y: 13.504822}
+        - {x: 7.520874, y: 21.504822}
+    - name: heavyAttack_16
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 239
+        width: 81
+        height: 68
+      alignment: 9
+      pivot: {x: 0.56162894, y: 0.676187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.491943, y: 13.019287}
+        - {x: -21.491943, y: -22.980713}
+        - {x: -12.491943, y: -29.980713}
+        - {x: -10.491943, y: -29.980713}
+        - {x: -17.491943, y: -29.980713}
+        - {x: -43.491943, y: -5.980713}
+        - {x: -45.491943, y: -5.980713}
+        - {x: -45.491943, y: -22.980713}
+        - {x: -44.491943, y: -29.980713}
+        - {x: -18.491943, y: -45.980713}
+        - {x: 35.508057, y: -45.980713}
+        - {x: 35.508057, y: -14.980713}
+        - {x: 27.508057, y: 18.019287}
+        - {x: 18.508057, y: 22.019287}
+        - {x: -10.491943, y: 22.019287}
+        - {x: -14.491943, y: 21.019287}
+    - name: heavyAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 242
+        width: 76
+        height: 65
+      alignment: 9
+      pivot: {x: 0.2044228, y: 0.67663854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.536133, y: 21.018494}
+        - {x: -15.536133, y: 20.018494}
+        - {x: -15.536133, y: -28.981506}
+        - {x: -13.536133, y: -31.981506}
+        - {x: 8.463867, y: -32.981506}
+        - {x: 13.463867, y: -26.981506}
+        - {x: 48.463867, y: -25.981506}
+        - {x: -14.536133, y: -39.981506}
+        - {x: -11.536133, y: -43.981506}
+        - {x: 44.463867, y: -43.981506}
+        - {x: 52.463867, y: -42.981506}
+        - {x: 60.463867, y: -39.981506}
+        - {x: 60.463867, y: 1.0184937}
+        - {x: 40.463867, y: 21.018494}
+    - name: heavyAttack_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 59
+        height: 50
+      alignment: 9
+      pivot: {x: 0.26317117, y: 0.62839967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5271, y: 18.580017}
+        - {x: -15.5271, y: 16.580017}
+        - {x: -15.5271, y: -21.419983}
+        - {x: -10.5271, y: -31.419983}
+        - {x: 43.4729, y: -31.419983}
+        - {x: 43.4729, y: -26.419983}
+        - {x: 16.4729, y: 18.580017}
+    - name: heavyAttack_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 64
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4352103, y: 0.6147297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.20285, y: 18.492973}
+        - {x: -9.79715, y: 18.492973}
+        - {x: -14.79715, y: 16.492973}
+        - {x: -14.79715, y: -22.507027}
+        - {x: -13.79715, y: -28.507027}
+        - {x: -11.79715, y: -29.507027}
+        - {x: 10.20285, y: -29.507027}
+        - {x: 19.20285, y: -24.507027}
+        - {x: 19.20285, y: 1.4929733}
+        - {x: 17.20285, y: 12.492973}
+    - name: heavyAttack_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 64
+        width: 38
+        height: 50
+      alignment: 9
+      pivot: {x: 0.60144526, y: 0.61014056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.854919, y: 19.492973}
+        - {x: -13.854919, y: 18.492973}
+        - {x: -22.85492, y: 9.492973}
+        - {x: -22.85492, y: -12.507027}
+        - {x: -16.85492, y: -30.507027}
+        - {x: 15.145081, y: -30.507027}
+        - {x: 15.145081, y: 19.492973}
+    - name: heavyAttack_21
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 64
+        width: 57
+        height: 50
+      alignment: 9
+      pivot: {x: 0.57246053, y: 0.6211546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.369751, y: -20.057732}
+        - {x: 24.369751, y: 12.942268}
+        - {x: 18.369751, y: 18.942268}
+        - {x: -32.63025, y: 18.942268}
+        - {x: -32.63025, y: -10.057732}
+        - {x: -17.630249, y: -31.057732}
+        - {x: 7.369751, y: -31.057732}
+        - {x: 11.369751, y: -29.057732}
+        - {x: 13.369751, y: -27.057732}
+        - {x: 13.369751, y: -24.057732}
+    - name: heavyAttack_22
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 64
+        width: 93
+        height: 50
+      alignment: 9
+      pivot: {x: 0.15950981, y: 0.6211546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.834412, y: 18.942268}
+        - {x: -14.834412, y: 10.942268}
+        - {x: -14.834412, y: -30.057732}
+        - {x: -13.834412, y: -31.057732}
+        - {x: 53.16559, y: -31.057732}
+        - {x: 78.16559, y: -25.057732}
+        - {x: 78.16559, y: 13.942268}
+        - {x: 73.16559, y: 18.942268}
+    - name: heavyAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 64
+        width: 91
+        height: 50
+      alignment: 9
+      pivot: {x: 0.16110331, y: 0.6211546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.3396, y: 18.942268}
+        - {x: 27.3396, y: 18.942268}
+        - {x: 16.3396, y: 8.942268}
+        - {x: 14.3396, y: 5.9422684}
+        - {x: 12.3396, y: 5.9422684}
+        - {x: 14.3396, y: 5.9422684}
+        - {x: 17.3396, y: 9.942268}
+        - {x: 18.3396, y: 12.942268}
+        - {x: 13.3396, y: 18.942268}
+        - {x: -8.6604, y: 18.942268}
+        - {x: -13.6604, y: 17.942268}
+        - {x: -14.6604, y: 14.942268}
+        - {x: -14.6604, y: -30.057732}
+        - {x: -11.6604, y: -31.057732}
+        - {x: 17.3396, y: -31.057732}
+        - {x: 76.3396, y: -1.0577316}
+        - {x: 76.3396, y: 11.942268}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

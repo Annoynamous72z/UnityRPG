@@ -1,0 +1,1012 @@
+fileFormatVersion: 2
+guid: a57ea502af617cf4a8435832d8d0c0b9
+timeCreated: 1465336008
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Questgiver_0
+    21300002: Questgiver_1
+    21300004: Questgiver_2
+    21300006: Questgiver_3
+    21300008: Questgiver_4
+    21300010: Questgiver_5
+    21300012: Questgiver_6
+    21300014: Questgiver_7
+    21300016: Questgiver_8
+    21300018: Questgiver_9
+    21300020: Questgiver_10
+    21300022: Questgiver_11
+    21300024: Questgiver_12
+    21300026: Questgiver_13
+    21300028: Questgiver_14
+    21300030: Questgiver_15
+    21300032: Questgiver_16
+    21300034: Questgiver_17
+    21300036: Questgiver_18
+    21300038: Questgiver_19
+    21300040: Questgiver_20
+    21300042: Questgiver_21
+    21300044: Questgiver_22
+    21300046: Questgiver_23
+    21300048: Questgiver_24
+    21300050: Questgiver_25
+    21300052: Questgiver_26
+    21300054: Questgiver_27
+    21300056: Questgiver_28
+    21300058: Questgiver_29
+    21300060: Questgiver_30
+    21300062: Questgiver_31
+    21300064: Questgiver_32
+    21300066: Questgiver_33
+    21300068: Questgiver_34
+    21300070: Questgiver_35
+    21300072: Questgiver_36
+    21300074: Questgiver_37
+    21300076: Questgiver_38
+    21300078: Questgiver_39
+    21300080: Questgiver_40
+    21300082: Questgiver_41
+    21300084: Questgiver_42
+    21300086: Questgiver_43
+    21300088: Questgiver_44
+    21300090: Questgiver_45
+    21300092: Questgiver_46
+    21300094: Questgiver_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Questgiver_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24}
+        - {x: 4, y: 26}
+        - {x: -10, y: 26}
+        - {x: -17, y: 8}
+        - {x: -17, y: -25}
+        - {x: -14, y: -26}
+        - {x: 16, y: -26}
+        - {x: 17, y: -25}
+        - {x: 17, y: 6}
+        - {x: 12, y: 19}
+    - name: Questgiver_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 26}
+        - {x: -17, y: 24}
+        - {x: -17, y: -26}
+        - {x: 16, y: -26}
+        - {x: 17, y: -23}
+        - {x: 17, y: 15}
+        - {x: 9, y: 26}
+    - name: Questgiver_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -17, y: 12}
+        - {x: -17, y: -15}
+        - {x: -10, y: -26}
+        - {x: -3, y: -27}
+        - {x: 11, y: -27}
+        - {x: 17, y: -21}
+        - {x: 17, y: 12}
+        - {x: 11, y: 26}
+    - name: Questgiver_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 25}
+        - {x: -7, y: 25}
+        - {x: -17, y: 20}
+        - {x: -17, y: -19}
+        - {x: -12, y: -28}
+        - {x: 11, y: -28}
+        - {x: 16, y: -18}
+        - {x: 16, y: 14}
+        - {x: 15, y: 20}
+    - name: Questgiver_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 26}
+        - {x: -15, y: 26}
+        - {x: -17, y: 18}
+        - {x: -17, y: -20}
+        - {x: -11, y: -27}
+        - {x: 13, y: -27}
+        - {x: 17, y: -11}
+        - {x: 17, y: 23}
+    - name: Questgiver_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 26}
+        - {x: -17, y: 24}
+        - {x: -17, y: -26}
+        - {x: 16, y: -26}
+        - {x: 17, y: -23}
+        - {x: 17, y: 15}
+        - {x: 9, y: 26}
+    - name: Questgiver_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -17, y: 8}
+        - {x: -17, y: -11}
+        - {x: -12, y: -23}
+        - {x: -10, y: -27}
+        - {x: 17, y: -27}
+        - {x: 17, y: 26}
+    - name: Questgiver_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 25}
+        - {x: -9, y: 25}
+        - {x: -16, y: 10}
+        - {x: -16, y: -19}
+        - {x: -15, y: -25}
+        - {x: -12, y: -28}
+        - {x: 0, y: -28}
+        - {x: 9, y: -25}
+        - {x: 17, y: -16}
+        - {x: 17, y: -2}
+        - {x: 13, y: 19}
+    - name: Questgiver_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 26}
+        - {x: -17, y: 8}
+        - {x: -17, y: -15}
+        - {x: -14, y: -27}
+        - {x: 9, y: -27}
+        - {x: 17, y: -24}
+        - {x: 17, y: 14}
+        - {x: 10, y: 26}
+    - name: Questgiver_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -12, y: -25}
+        - {x: -3, y: -27}
+        - {x: 10, y: -27}
+        - {x: 13, y: -25}
+        - {x: 13, y: 25}
+    - name: Questgiver_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 24}
+        - {x: -12, y: 24}
+        - {x: -15, y: 11}
+        - {x: -15, y: -26}
+        - {x: -12, y: -27}
+        - {x: 12, y: -27}
+        - {x: 14, y: -22}
+        - {x: 14, y: 5}
+        - {x: 13, y: 18}
+    - name: Questgiver_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 25}
+        - {x: -13, y: 18}
+        - {x: -13, y: -26}
+        - {x: 13, y: -26}
+        - {x: 13, y: 25}
+    - name: Questgiver_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25}
+        - {x: -12, y: 22}
+        - {x: -12, y: -10}
+        - {x: -11, y: -24}
+        - {x: -5, y: -26}
+        - {x: 10, y: -26}
+        - {x: 15, y: -18}
+        - {x: 15, y: 23}
+        - {x: 7, y: 25}
+    - name: Questgiver_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -12, y: -26}
+        - {x: -8, y: -27}
+        - {x: 1, y: -27}
+        - {x: 8, y: -26}
+        - {x: 16, y: -16}
+        - {x: 16, y: 23}
+        - {x: 11, y: 25}
+    - name: Questgiver_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 24}
+        - {x: -7, y: 24}
+        - {x: -14, y: 21}
+        - {x: -14, y: -27}
+        - {x: 12, y: -27}
+        - {x: 18, y: -23}
+        - {x: 18, y: 16}
+    - name: Questgiver_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -12, y: 19}
+        - {x: -12, y: -27}
+        - {x: 13, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 15}
+        - {x: 12, y: 25}
+    - name: Questgiver_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 25}
+        - {x: -12, y: 19}
+        - {x: -12, y: 7}
+        - {x: -9, y: -16}
+        - {x: -8, y: -22}
+        - {x: -6, y: -27}
+        - {x: 5, y: -27}
+        - {x: 13, y: -25}
+        - {x: 15, y: -22}
+        - {x: 15, y: 16}
+        - {x: 12, y: 25}
+    - name: Questgiver_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -12, y: -18}
+        - {x: -10, y: -27}
+        - {x: 12, y: -27}
+        - {x: 14, y: -26}
+        - {x: 14, y: 23}
+        - {x: 7, y: 25}
+    - name: Questgiver_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -17, y: 4}
+        - {x: -17, y: -21}
+        - {x: -13, y: -27}
+        - {x: 15, y: -27}
+        - {x: 17, y: -24}
+        - {x: 17, y: 6}
+        - {x: 11, y: 26}
+    - name: Questgiver_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -17, y: 10}
+        - {x: -17, y: -14}
+        - {x: -13, y: -27}
+        - {x: 13, y: -27}
+        - {x: 17, y: -21}
+        - {x: 17, y: 5}
+        - {x: 11, y: 26}
+    - name: Questgiver_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -17, y: 8}
+        - {x: -17, y: -16}
+        - {x: -15, y: -25}
+        - {x: -14, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 6}
+        - {x: 11, y: 26}
+    - name: Questgiver_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 25}
+        - {x: -7, y: 25}
+        - {x: -16, y: 20}
+        - {x: -16, y: -15}
+        - {x: -13, y: -28}
+        - {x: 12, y: -28}
+        - {x: 17, y: -14}
+        - {x: 17, y: -2}
+        - {x: 13, y: 20}
+    - name: Questgiver_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -17, y: 1}
+        - {x: -17, y: -18}
+        - {x: -11, y: -28}
+        - {x: 14, y: -28}
+        - {x: 17, y: -26}
+        - {x: 17, y: 19}
+        - {x: 16, y: 26}
+    - name: Questgiver_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -17, y: 6}
+        - {x: -17, y: -24}
+        - {x: -16, y: -27}
+        - {x: 17, y: -27}
+        - {x: 17, y: 9}
+        - {x: 11, y: 26}
+    - name: Questgiver_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26}
+        - {x: -17, y: 21}
+        - {x: -17, y: -25}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 26}
+    - name: Questgiver_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 25}
+        - {x: -17, y: 21}
+        - {x: -17, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 21}
+        - {x: 11, y: 25}
+    - name: Questgiver_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 26}
+        - {x: -6, y: 26}
+        - {x: -17, y: 22}
+        - {x: -17, y: -28}
+        - {x: 12, y: -28}
+        - {x: 17, y: -17}
+        - {x: 17, y: 2}
+        - {x: 15, y: 18}
+    - name: Questgiver_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25}
+        - {x: -13, y: 19}
+        - {x: -13, y: -23}
+        - {x: -10, y: -27}
+        - {x: 12, y: -27}
+        - {x: 12, y: 21}
+        - {x: 7, y: 25}
+    - name: Questgiver_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 24}
+        - {x: -7, y: 24}
+        - {x: -14, y: 21}
+        - {x: -14, y: -25}
+        - {x: -12, y: -27}
+        - {x: 12, y: -27}
+        - {x: 15, y: -25}
+        - {x: 15, y: -2}
+        - {x: 13, y: 16}
+    - name: Questgiver_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 25}
+        - {x: -6, y: 25}
+        - {x: -13, y: 23}
+        - {x: -13, y: -18}
+        - {x: -9, y: -26}
+        - {x: 13, y: -26}
+        - {x: 13, y: 17}
+    - name: Questgiver_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 25}
+        - {x: -7, y: 25}
+        - {x: -15, y: 22}
+        - {x: -15, y: -18}
+        - {x: -14, y: -26}
+        - {x: 7, y: -26}
+        - {x: 9, y: -22}
+        - {x: 12, y: 6}
+        - {x: 12, y: 19}
+    - name: Questgiver_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -16, y: 10}
+        - {x: -16, y: -24}
+        - {x: -13, y: -27}
+        - {x: 8, y: -27}
+        - {x: 12, y: -26}
+        - {x: 12, y: 20}
+        - {x: 8, y: 25}
+    - name: Questgiver_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -13, y: 18}
+        - {x: -18, y: -6}
+        - {x: -18, y: -16}
+        - {x: -9, y: -27}
+        - {x: 14, y: -27}
+        - {x: 14, y: 11}
+        - {x: 11, y: 24}
+    - name: Questgiver_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 25}
+        - {x: -16, y: 24}
+        - {x: -16, y: -27}
+        - {x: 11, y: -27}
+        - {x: 12, y: -24}
+        - {x: 12, y: 25}
+    - name: Questgiver_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25}
+        - {x: -15, y: 16}
+        - {x: -15, y: -18}
+        - {x: -8, y: -27}
+        - {x: 12, y: -27}
+        - {x: 12, y: 25}
+    - name: Questgiver_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 25}
+        - {x: -14, y: 16}
+        - {x: -14, y: -12}
+        - {x: -11, y: -22}
+        - {x: -8, y: -27}
+        - {x: 7, y: -27}
+        - {x: 12, y: -26}
+        - {x: 12, y: 25}
+    - name: Questgiver_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -17, y: 14}
+        - {x: -17, y: -18}
+        - {x: -13, y: -27}
+        - {x: 15, y: -27}
+        - {x: 17, y: -21}
+        - {x: 17, y: 11}
+        - {x: 10, y: 25}
+    - name: Questgiver_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: 4, y: 24}
+        - {x: -10, y: 24}
+        - {x: -15, y: 10}
+        - {x: -15, y: -28}
+        - {x: 15, y: -28}
+        - {x: 15, y: 9}
+        - {x: 14, y: 18}
+    - name: Questgiver_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 24}
+        - {x: -12, y: 24}
+        - {x: -15, y: 18}
+        - {x: -15, y: -28}
+        - {x: 15, y: -28}
+        - {x: 15, y: -2}
+        - {x: 12, y: 18}
+    - name: Questgiver_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 25}
+        - {x: -6, y: 25}
+        - {x: -15, y: 20}
+        - {x: -15, y: -19}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 15, y: -24}
+        - {x: 17, y: -21}
+        - {x: 17, y: 22}
+    - name: Questgiver_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 71
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 25}
+        - {x: -16, y: 5}
+        - {x: -16, y: -17}
+        - {x: -14, y: -23}
+        - {x: -12, y: -28}
+        - {x: 13, y: -28}
+        - {x: 24, y: -15}
+        - {x: 24, y: 16}
+        - {x: 15, y: 25}
+    - name: Questgiver_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 71
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 25}
+        - {x: -11, y: 25}
+        - {x: -16, y: 7}
+        - {x: -16, y: -21}
+        - {x: -12, y: -28}
+        - {x: 18, y: -28}
+        - {x: 27, y: -17}
+        - {x: 27, y: 11}
+    - name: Questgiver_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -12, y: -25}
+        - {x: -3, y: -27}
+        - {x: 10, y: -27}
+        - {x: 13, y: -25}
+        - {x: 13, y: 25}
+    - name: Questgiver_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -17, y: 20}
+        - {x: -17, y: -27}
+        - {x: 12, y: -27}
+        - {x: 12, y: 21}
+        - {x: 9, y: 23}
+    - name: Questgiver_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 25}
+        - {x: -9, y: 25}
+        - {x: -14, y: 19}
+        - {x: -14, y: -18}
+        - {x: -13, y: -23}
+        - {x: -12, y: -26}
+        - {x: -1, y: -27}
+        - {x: 9, y: -27}
+        - {x: 12, y: -25}
+        - {x: 14, y: -21}
+        - {x: 14, y: 11}
+    - name: Questgiver_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 25}
+        - {x: -10, y: 25}
+        - {x: -16, y: 18}
+        - {x: -23, y: 0}
+        - {x: -23, y: -15}
+        - {x: -15, y: -24}
+        - {x: -2, y: -27}
+        - {x: 9, y: -27}
+        - {x: 15, y: -17}
+        - {x: 15, y: 2}
+        - {x: 12, y: 20}
+    - name: Questgiver_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 25}
+        - {x: -26, y: 14}
+        - {x: -26, y: -9}
+        - {x: -18, y: -27}
+        - {x: 14, y: -27}
+        - {x: 14, y: 24}
+        - {x: 8, y: 25}
+    - name: Questgiver_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 25}
+        - {x: -18, y: 18}
+        - {x: -23, y: 7}
+        - {x: -23, y: -5}
+        - {x: -13, y: -27}
+        - {x: 14, y: -27}
+        - {x: 14, y: 24}
+        - {x: 8, y: 25}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

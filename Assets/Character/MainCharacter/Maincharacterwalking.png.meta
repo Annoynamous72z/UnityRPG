@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: 9b0d9655d6a7284448b874d9ab946f35
+timeCreated: 1463258342
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Maincharacterwalking_0
+    21300002: Maincharacterwalking_1
+    21300004: Maincharacterwalking_2
+    21300006: Maincharacterwalking_3
+    21300008: Maincharacterwalking_4
+    21300010: Maincharacterwalking_5
+    21300012: Maincharacterwalking_6
+    21300014: Maincharacterwalking_7
+    21300016: Maincharacterwalking_8
+    21300018: Maincharacterwalking_9
+    21300020: Maincharacterwalking_10
+    21300022: Maincharacterwalking_11
+    21300024: Maincharacterwalking_12
+    21300026: Maincharacterwalking_13
+    21300028: Maincharacterwalking_14
+    21300030: Maincharacterwalking_15
+    21300032: Maincharacterwalking_16
+    21300034: Maincharacterwalking_17
+    21300036: Maincharacterwalking_18
+    21300038: Maincharacterwalking_19
+    21300040: Maincharacterwalking_20
+    21300042: Maincharacterwalking_21
+    21300044: Maincharacterwalking_22
+    21300046: Maincharacterwalking_23
+    21300048: Maincharacterwalking_24
+    21300050: Maincharacterwalking_25
+    21300052: Maincharacterwalking_26
+    21300054: Maincharacterwalking_27
+    21300056: Maincharacterwalking_28
+    21300058: Maincharacterwalking_29
+    21300060: Maincharacterwalking_30
+    21300062: Maincharacterwalking_31
+    21300064: Maincharacterwalking_32
+    21300066: Maincharacterwalking_33
+    21300068: Maincharacterwalking_34
+    21300070: Maincharacterwalking_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Maincharacterwalking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -17, y: 16}
+        - {x: -17, y: -29}
+        - {x: -16, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 19}
+        - {x: 14, y: 21}
+    - name: Maincharacterwalking_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 21}
+        - {x: -6, y: 21}
+        - {x: -17, y: 12}
+        - {x: -17, y: -25}
+        - {x: -16, y: -31}
+        - {x: 15, y: -31}
+        - {x: 16, y: -30}
+        - {x: 17, y: -26}
+        - {x: 17, y: 15}
+    - name: Maincharacterwalking_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21}
+        - {x: -8, y: 19}
+        - {x: -17, y: 11}
+        - {x: -17, y: -31}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 16}
+        - {x: 10, y: 21}
+    - name: Maincharacterwalking_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -17, y: 11}
+        - {x: -17, y: -21}
+        - {x: -15, y: -28}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -16}
+        - {x: 17, y: 14}
+        - {x: 11, y: 20}
+    - name: Maincharacterwalking_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -17, y: 8}
+        - {x: -17, y: -28}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -23}
+        - {x: 17, y: 11}
+        - {x: 8, y: 21}
+    - name: Maincharacterwalking_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21}
+        - {x: -8, y: 19}
+        - {x: -11, y: 16}
+        - {x: -17, y: 7}
+        - {x: -17, y: -17}
+        - {x: -10, y: -31}
+        - {x: 12, y: -31}
+        - {x: 17, y: -22}
+        - {x: 17, y: 11}
+        - {x: 8, y: 21}
+    - name: Maincharacterwalking_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -17, y: 15}
+        - {x: -17, y: -25}
+        - {x: -16, y: -31}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 21}
+    - name: Maincharacterwalking_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -8, y: 18}
+        - {x: -17, y: 10}
+        - {x: -17, y: -18}
+        - {x: -15, y: -31}
+        - {x: -14, y: -32}
+        - {x: 3, y: -32}
+        - {x: 9, y: -30}
+        - {x: 17, y: -21}
+        - {x: 17, y: 10}
+        - {x: 8, y: 20}
+    - name: Maincharacterwalking_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -17, y: 13}
+        - {x: -17, y: -25}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -23}
+        - {x: 17, y: 18}
+        - {x: 14, y: 21}
+    - name: Maincharacterwalking_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -10, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -19}
+        - {x: -15, y: -29}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -29}
+        - {x: 17, y: -6}
+        - {x: 17, y: 7}
+        - {x: 12, y: 14}
+    - name: Maincharacterwalking_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -16, y: -30}
+        - {x: -13, y: -31}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -20}
+        - {x: 17, y: 11}
+        - {x: 8, y: 19}
+    - name: Maincharacterwalking_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -16, y: 16}
+        - {x: -16, y: -31}
+        - {x: 9, y: -31}
+        - {x: 17, y: -6}
+        - {x: 17, y: 10}
+        - {x: 9, y: 20}
+    - name: Maincharacterwalking_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 8}
+        - {x: 8, y: 20}
+        - {x: -11, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -4}
+        - {x: -8, y: -29}
+        - {x: -6, y: -31}
+        - {x: 5, y: -31}
+        - {x: 8, y: -28}
+        - {x: 16, y: -19}
+        - {x: 17, y: -11}
+    - name: Maincharacterwalking_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -10, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -9}
+        - {x: -12, y: -26}
+        - {x: -6, y: -32}
+        - {x: 8, y: -32}
+        - {x: 16, y: -18}
+        - {x: 17, y: -12}
+        - {x: 17, y: 8}
+    - name: Maincharacterwalking_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: -15, y: -19}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 18, y: -28}
+        - {x: 18, y: 11}
+        - {x: 15, y: 19}
+    - name: Maincharacterwalking_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 20}
+    - name: Maincharacterwalking_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -5}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -15}
+        - {x: 17, y: 14}
+        - {x: 8, y: 20}
+    - name: Maincharacterwalking_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -7}
+        - {x: -10, y: -30}
+        - {x: -8, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -31}
+        - {x: 17, y: -9}
+        - {x: 17, y: 9}
+        - {x: 7, y: 20}
+    - name: Maincharacterwalking_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -17, y: 10}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 14, y: 21}
+    - name: Maincharacterwalking_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -17, y: 11}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 14, y: 21}
+    - name: Maincharacterwalking_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -17, y: 15}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 10, y: 21}
+    - name: Maincharacterwalking_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 12}
+        - {x: -17, y: -14}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -23}
+        - {x: 17, y: 13}
+        - {x: 10, y: 20}
+    - name: Maincharacterwalking_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -18, y: 13}
+        - {x: -18, y: -27}
+        - {x: -11, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 13}
+        - {x: 11, y: 21}
+    - name: Maincharacterwalking_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -17, y: 14}
+        - {x: -17, y: -24}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 16}
+        - {x: 12, y: 21}
+    - name: Maincharacterwalking_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -17, y: 15}
+        - {x: -17, y: -25}
+        - {x: -16, y: -31}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: 13}
+        - {x: 15, y: 21}
+    - name: Maincharacterwalking_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -7, y: 20}
+        - {x: -8, y: 19}
+        - {x: -17, y: 11}
+        - {x: -17, y: -17}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -25}
+        - {x: 17, y: 10}
+    - name: Maincharacterwalking_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -8, y: 20}
+        - {x: -17, y: 11}
+        - {x: -17, y: -19}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 12}
+        - {x: 7, y: 21}
+    - name: Maincharacterwalking_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -8, y: 20}
+        - {x: -17, y: 8}
+        - {x: -17, y: -7}
+        - {x: -12, y: -29}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -25}
+        - {x: 16, y: -18}
+        - {x: 16, y: 14}
+    - name: Maincharacterwalking_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -17, y: 10}
+        - {x: -17, y: -17}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: Maincharacterwalking_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -8, y: 20}
+        - {x: -17, y: 8}
+        - {x: -17, y: -14}
+        - {x: -15, y: -30}
+        - {x: -11, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 14}
+    - name: Maincharacterwalking_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 20}
+        - {x: -8, y: 20}
+        - {x: -17, y: 13}
+        - {x: -17, y: -22}
+        - {x: -8, y: -31}
+        - {x: 6, y: -31}
+        - {x: 8, y: -29}
+        - {x: 16, y: -6}
+        - {x: 16, y: 17}
+    - name: Maincharacterwalking_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 15}
+        - {x: 9, y: 20}
+        - {x: -6, y: 20}
+        - {x: -16, y: 17}
+        - {x: -17, y: 14}
+        - {x: -17, y: -16}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -23}
+        - {x: 16, y: -2}
+        - {x: 16, y: 11}
+    - name: Maincharacterwalking_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -18, y: 7}
+        - {x: -18, y: -29}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -17}
+        - {x: 16, y: 13}
+        - {x: 10, y: 19}
+    - name: Maincharacterwalking_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -15, y: 16}
+        - {x: -17, y: 15}
+        - {x: -17, y: -26}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 16}
+        - {x: 11, y: 20}
+    - name: Maincharacterwalking_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -17, y: -27}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -31}
+        - {x: 16, y: -10}
+        - {x: 16, y: 14}
+        - {x: 11, y: 20}
+    - name: Maincharacterwalking_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 10
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -12, y: 20}
+        - {x: -17, y: 13}
+        - {x: -17, y: -10}
+        - {x: -10, y: -32}
+        - {x: 8, y: -32}
+        - {x: 9, y: -29}
+        - {x: 16, y: 2}
+        - {x: 16, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

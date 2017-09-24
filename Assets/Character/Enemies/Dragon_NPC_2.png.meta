@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: b709e8aee3fab5a428c8ae5615b12ef1
+timeCreated: 1465668389
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dragon_NPC_2_0
+    21300002: Dragon_NPC_2_1
+    21300004: Dragon_NPC_2_2
+    21300006: Dragon_NPC_2_3
+    21300008: Dragon_NPC_2_4
+    21300010: Dragon_NPC_2_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dragon_NPC_2_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1036
+        width: 299
+        height: 177
+      alignment: 9
+      pivot: {x: 0.49706185, y: 0.19197729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.62149, y: 108.02002}
+        - {x: -148.62149, y: 7.0200195}
+        - {x: -148.62149, y: -32.97998}
+        - {x: 147.37851, y: -32.97998}
+        - {x: 147.37851, y: 45.02002}
+        - {x: 30.37851, y: 108.02002}
+    - name: Dragon_NPC_2_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 754
+        width: 196
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5033557, y: 0.4382267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.657715, y: -38.31903}
+        - {x: -94.657715, y: -51.31903}
+        - {x: -86.657715, y: -60.31903}
+        - {x: -83.657715, y: -58.31903}
+        - {x: -55.657715, y: -79.31903}
+        - {x: -49.657715, y: -79.31903}
+        - {x: -39.657715, y: -61.31903}
+        - {x: 8.342285, y: -21.31903}
+        - {x: 11.342285, y: -15.319031}
+        - {x: 10.342285, y: -18.31903}
+        - {x: 12.342285, y: -23.31903}
+        - {x: 20.342285, y: -25.31903}
+        - {x: 36.342285, y: -3.3190308}
+        - {x: 40.342285, y: -63.31903}
+        - {x: 44.342285, y: -79.31903}
+        - {x: 97.342285, y: -79.31903}
+        - {x: 97.342285, y: 74.68097}
+        - {x: 89.342285, y: 101.68097}
+        - {x: -6.657715, y: 101.68097}
+        - {x: -98.657715, y: -2.3190308}
+    - name: Dragon_NPC_2_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 565
+        width: 251
+        height: 149
+      alignment: 9
+      pivot: {x: 0.49839595, y: 0.26390538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.90262, y: 25.6781}
+        - {x: 113.90262, y: 19.6781}
+        - {x: 108.90262, y: 12.678101}
+        - {x: 108.90262, y: 39.6781}
+        - {x: 102.90262, y: 63.6781}
+        - {x: 75.90262, y: 106.6781}
+        - {x: 72.90262, y: 109.6781}
+        - {x: -25.097382, y: 109.6781}
+        - {x: -35.09738, y: 77.6781}
+        - {x: -26.097382, y: 75.6781}
+        - {x: -44.09738, y: 44.6781}
+        - {x: -66.09738, y: 109.6781}
+        - {x: -75.09738, y: 109.6781}
+        - {x: -100.09738, y: 70.6781}
+        - {x: -110.09738, y: 40.6781}
+        - {x: -109.09738, y: 13.678101}
+        - {x: -110.09738, y: 27.6781}
+        - {x: -112.09738, y: 34.6781}
+        - {x: -118.09738, y: 35.6781}
+        - {x: -125.09738, y: 30.6781}
+        - {x: -125.09738, y: -39.3219}
+        - {x: 118.90262, y: -39.3219}
+        - {x: 125.90262, y: -34.3219}
+        - {x: 125.90262, y: 29.6781}
+        - {x: 112.90262, y: 33.6781}
+    - name: Dragon_NPC_2_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 309
+        width: 199
+        height: 150
+      alignment: 9
+      pivot: {x: 0.48448205, y: 0.27443096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.411926, y: 101.83536}
+        - {x: -36.411926, y: 81.83536}
+        - {x: -71.41193, y: 107.83536}
+        - {x: -73.41193, y: 108.83536}
+        - {x: -96.41193, y: 108.83536}
+        - {x: -96.41193, y: 13.835358}
+        - {x: -70.41193, y: -41.164642}
+        - {x: 69.58807, y: -41.164642}
+        - {x: 102.58807, y: 29.835358}
+        - {x: 102.58807, y: 108.83536}
+        - {x: 28.588074, y: 108.83536}
+        - {x: -11.411926, y: 105.83536}
+    - name: Dragon_NPC_2_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 57
+        width: 130
+        height: 167
+      alignment: 9
+      pivot: {x: 0.50815076, y: 0.27797616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.059601, y: -20.422012}
+        - {x: -14.059601, y: -16.422012}
+        - {x: -12.059601, y: -19.422012}
+        - {x: 2.9403992, y: -41.422012}
+        - {x: 8.940399, y: -46.422012}
+        - {x: 25.9404, y: -46.422012}
+        - {x: 34.9404, y: -28.422012}
+        - {x: 63.9404, y: 37.577988}
+        - {x: 63.9404, y: 79.57799}
+        - {x: 50.9404, y: 118.57799}
+        - {x: 39.9404, y: 120.57799}
+        - {x: 5.940399, y: 120.57799}
+        - {x: 1.9403992, y: 116.57799}
+        - {x: 2.9403992, y: 111.57799}
+        - {x: 7.940399, y: 100.57799}
+        - {x: 0.94039917, y: 115.57799}
+        - {x: -4.059601, y: 120.57799}
+        - {x: -31.0596, y: 120.57799}
+        - {x: -55.0596, y: 109.57799}
+        - {x: -66.0596, y: 92.57799}
+        - {x: -66.0596, y: 34.577988}
+        - {x: -43.0596, y: -46.422012}
+        - {x: -14.059601, y: -46.422012}
+        - {x: -14.059601, y: -43.422012}
+        - {x: -8.059601, y: -31.422012}
+        - {x: -8.059601, y: -27.422012}
+    - name: Dragon_NPC_2_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 41}
+        - {x: -21, y: 41}
+        - {x: -48, y: 25}
+        - {x: -48, y: -41}
+        - {x: 48, y: -41}
+        - {x: 48, y: -11}
+        - {x: 29, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

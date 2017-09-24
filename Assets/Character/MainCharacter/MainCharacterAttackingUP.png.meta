@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: e141b697b163c9043be3fbe6427fd89c
+timeCreated: 1463260059
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainCharacterAttackingUP_0
+    21300002: MainCharacterAttackingUP_1
+    21300004: MainCharacterAttackingUP_2
+    21300006: MainCharacterAttackingUP_3
+    21300008: MainCharacterAttackingUP_4
+    21300010: MainCharacterAttackingUP_5
+    21300012: MainCharacterAttackingUP_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MainCharacterAttackingUP_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52
+        width: 31
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47192433, y: 0.5815956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MainCharacterAttackingUP_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 51
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.5906618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MainCharacterAttackingUP_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 51
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.611584, y: 0.5906618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.851776, y: 19.648232}
+        - {x: -23.851776, y: 1.6482315}
+        - {x: -23.851776, y: -10.3517685}
+        - {x: -13.851776, y: -28.351768}
+        - {x: 15.148224, y: -28.351768}
+        - {x: 15.148224, y: 13.6482315}
+        - {x: 9.148224, y: 19.648232}
+    - name: MainCharacterAttackingUP_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 51
+        width: 30
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.60657376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MainCharacterAttackingUP_4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 51
+        width: 45
+        height: 49
+      alignment: 9
+      pivot: {x: 0.37428385, y: 0.60657376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.842773, y: 19.277885}
+        - {x: -16.842773, y: 14.277885}
+        - {x: -16.842773, y: -29.722115}
+        - {x: 14.157227, y: -29.722115}
+        - {x: 14.157227, y: -28.722115}
+        - {x: 28.157227, y: 1.2778854}
+        - {x: 28.157227, y: 19.277885}
+    - name: MainCharacterAttackingUP_5
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 51
+        width: 62
+        height: 49
+      alignment: 9
+      pivot: {x: 0.25433645, y: 0.62433606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.23114, y: 13.407532}
+        - {x: 17.23114, y: 18.407532}
+        - {x: -8.76886, y: 18.407532}
+        - {x: -15.76886, y: 10.407532}
+        - {x: -15.76886, y: -30.592468}
+        - {x: 26.23114, y: -30.592468}
+        - {x: 46.23114, y: -9.592468}
+        - {x: 46.23114, y: 8.407532}
+        - {x: 43.23114, y: 15.407532}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
