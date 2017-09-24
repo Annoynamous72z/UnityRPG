@@ -41,17 +41,16 @@ public class PlayerHealthManager : MonoBehaviour
 			StartCoroutine (timer (minTime));
 		}
 		if (Input.GetKeyDown (KeyCode.X) || Input.GetKeyDown (KeyCode.K)) {
-			if (playerCurrentHealth > 0) {
+			if (currentHPpot <= 0) {
+				currentHPpot = 0;
+
+			} else if (playerCurrentHealth > 0) {
 				playerCurrentHealth = playerCurrentHealth + (0.5 * playerMaxHealth);
 				currentHPpot = currentHPpot - 1;
 				if (playerCurrentHealth > playerMaxHealth) {
 					playerCurrentHealth = playerMaxHealth;
 				}
-				if (currentHPpot <= 0) {
-					playerCurrentHealth = playerCurrentHealth;
-					currentHPpot = 0;
-			
-				}
+
 			}
 		}
 	}
