@@ -33,12 +33,12 @@ public class QuestGiverDialoge : MonoBehaviour
 		if (other.gameObject.name == "Player") {
 			dMAn.ShowBox (dialogue);
 			dMAn.ShowIntruction ();
-			random = Random.Range (0, 1);
-			if (Input.GetKeyDown (KeyCode.Space) && random == 0) {
+			random = Random.Range(0, 100);
+			if (Input.GetKeyDown (KeyCode.Space) && random <= 49) {
 				var clone = Instantiate (map, mapTarget.transform.position, Quaternion.Euler (Vector3.zero));
 				StartCoroutine (screenfader ());
 			}
-			if (Input.GetKeyDown (KeyCode.Space) && random == 1) {
+			if (Input.GetKeyDown (KeyCode.Space) && random > 49) {
 				var clone = Instantiate (map2, mapTarget2.transform.position, Quaternion.Euler (Vector3.zero));
 				StartCoroutine (screenfader2 ());
 			}
