@@ -12,7 +12,9 @@ public class QuestGiverDialoge : MonoBehaviour
 	public Transform mapTarget2;
 	public GameObject Player;
 	public GameObject map;
+	public GameObject map2;
 
+	int random;
 	// Use this for initialization
 	void Start ()
 	{
@@ -27,21 +29,25 @@ public class QuestGiverDialoge : MonoBehaviour
 
 	void OnTriggerStay2D (Collider2D other)
 	{
-		
+
 		if (other.gameObject.name == "Player") {
 			dMAn.ShowBox (dialogue);
 			dMAn.ShowIntruction ();
-
-			if (Input.GetKeyDown (KeyCode.Space)) {
+			random = Random.Range (0, 1);
+			if (Input.GetKeyDown (KeyCode.Space) && random == 0) {
 				var clone = Instantiate (map, mapTarget.transform.position, Quaternion.Euler (Vector3.zero));
 				StartCoroutine (screenfader ());
+			}
+			if (Input.GetKeyDown (KeyCode.Space) && random == 1) {
+				var clone = Instantiate (map2, mapTarget2.transform.position, Quaternion.Euler (Vector3.zero));
+				StartCoroutine (screenfader2 ());
 			}
 		}
 	}
 
 	void OnTriggerExit2D (Collider2D other)
 	{
-		
+
 		if (other.gameObject.name == "Player") {
 			dMAn.dBox.SetActive (false);
 			dMAn.iText.SetActive (false);
